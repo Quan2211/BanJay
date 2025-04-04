@@ -1,0 +1,8 @@
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-item,
+.navbar-brand {
+    font-family: Arial, sans-serif; /* Chỉnh font chữ */
+    font-size: 16px; /* Chỉnh kích thước chữ */
+    font-weight: normal; /* Độ đậm */
+    color: black; /* Màu chữ */
+}
